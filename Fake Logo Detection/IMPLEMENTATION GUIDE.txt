@@ -1,0 +1,29 @@
+Topic-Fake Logo Detection
+Domain- Deep Learning
+Algorithm-Image processing and CNN
+Interface-Website
+Price- 2000RS (code with Implementation guide)
+----------------
+
+INSTALL
+----------------
+PYTHON 3.11- https://www.youtube.com/watch?v=m9I-YpOjXVQ
+----------------
+IMPLEMENTATION
+----------------
+1.EXTRACT ZIP FILE
+2.OPEN FILE DIRECTORY IN CMD (COMMAND PROMPT)
+3.AFTER OPENING CMD /VS CODE TERMINAL
+C:\Users\HP\Desktop\PROJECTS\Fake Logo Detection-(now type)
+
+3.AFTER VS CODE TERMINAL
+
+pip install -r requirements.txt
+
+python app.py
+
+4.NOW ITS RUNNING COPY AND PASTE URL IN BROWSER
+
+http://localhost:5000/
+
+------------------------------
